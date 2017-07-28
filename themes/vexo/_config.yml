@@ -1,0 +1,19 @@
+author: yanm1ng # 作者
+description: yanm1ng's blog
+keyword: hexo-theme, vuejs
+
+excerpt_link: Read more
+
+menu:
+ 首页: /
+ 文章: /archives/
+ 关于: /about/
+
+# highlight
+highlight:
+  tomorrow
+
+
+# uyan
+# if you want to use uyan as your blog comment, plz remove/comment out gitment config
+
